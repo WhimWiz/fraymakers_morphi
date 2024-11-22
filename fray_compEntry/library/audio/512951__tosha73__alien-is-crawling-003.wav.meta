@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "0049f700-7ba3-4aca-b53a-64bc7e5087be",
+  "id": "crawl",
+  "pluginMetadata": {
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

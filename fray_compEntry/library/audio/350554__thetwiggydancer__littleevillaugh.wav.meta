@@ -1,0 +1,16 @@
+{
+  "export": true,
+  "guid": "328111cd-152e-46bf-b3e0-271dcb73c13d",
+  "id": "laugh",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

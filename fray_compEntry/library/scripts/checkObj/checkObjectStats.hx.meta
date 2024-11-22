@@ -1,0 +1,16 @@
+{
+  "export": true,
+  "guid": "501ad730-55e8-4855-ba89-6d0ee656e600",
+  "id": "checkStats",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

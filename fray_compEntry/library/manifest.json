@@ -1,0 +1,48 @@
+{
+  "resourceId": "morphi",
+  "content": [{
+    "id": "morphi",
+    "name": "Morphi",
+    "description": "Created for the Unique Assists Fraymakers workshop contest. Morphi is a mischievous shapeshifter who can take control of any opponent. They'll more than happy to help you rack up damage on your foes.",
+    "type": "assist",
+    "objectStatsId": "assisttemplateAssistObjectStats",
+    "animationStatsId": "assisttemplateAnimationStats",
+    "hitboxStatsId": "assisttemplateHitboxStats",
+    "scriptId": "assisttemplateScript",
+    "costumesId": "assisttemplateCostumes",
+    "metadata": {
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"assist_full",
+          "animation_icon_no_palette":"assist_css"
+        },
+        "hud":{
+          "animation":"assist_hud"
+        },
+        "css":{
+          "animation":"assist_css",
+          "info":{
+            "game":"Created By Whimz (plz dont steal)",
+            "description":"Created for the Unique Assists Fraymakers workshop contest. Morphi is a mischievous shapeshifter who can take control of any opponent. They'll more than happy to help you rack up damage on your foes."
+          }
+        }
+      }
+    }
+  },{
+    "id": "playerGhost",
+    "type": "projectile",
+    "objectStatsId": "assisttemplateProjectileObjectStats",
+    "animationStatsId": "assisttemplateProjectileAnimationStats",
+    "hitboxStatsId": "assisttemplateProjectileHitboxStats",
+    "scriptId": "assisttemplateProjectileScript"
+  },
+  {
+    "id": "morphiCheck",
+    "type": "projectile",
+    "objectStatsId": "checkStats",
+    "animationStatsId": "assisttemplateAnimationStats",
+    "hitboxStatsId": "assisttemplateHitboxStats",
+    "scriptId": "checkScript"
+  }]
+}

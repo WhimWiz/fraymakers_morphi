@@ -1,0 +1,17 @@
+{
+  "export": true,
+  "guid": "490b440e-38a7-4b82-a357-5900e216e891",
+  "id": "checkScript",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}
